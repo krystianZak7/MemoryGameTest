@@ -9,8 +9,8 @@ A dynamic and interactive memory game developed using HTML, CSS, and JavaScript.
 * Demo
 * Features
 * How to Play
-Technologies Used
-Setup
+* Technologies Used
+* Setup
 
 # Features
 Responsive Game Board - a grid layout with cards that adapt to different screen sizes.
