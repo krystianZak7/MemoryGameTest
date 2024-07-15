@@ -54,7 +54,7 @@ Animated Matching - Visual feedback with animations for successfully matched car
 To run the game locally, follow these steps:
 
 - Clone the repository:
-- git clone https://github.com/yourusername/memory-game.git
+git clone https://github.com/yourusername/memory-game.git
 - cd memory-game
 - Open the memory.html file in your preferred web browser.
 
