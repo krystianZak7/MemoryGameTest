@@ -21,7 +21,7 @@ Restart Button --- resets the game to its initial state, allowing for a fresh st
 
 Card Matching --- logic to check for matching pairs and keep them flipped if they match.
 
-Animated Matching - Visual feedback with animations for successfully matched cards.
+Animated Matching --- Visual feedback with animations for successfully matched cards.
 
 # How to Play
 - Start the Game: Open the game in your web browser
