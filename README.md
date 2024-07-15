@@ -25,9 +25,9 @@ Track Progress: Keep an eye on the move counter and timer to track your progress
 Restart: Click the restart button to reset the game and play again.
 
 # Technologies
-HTML: Create the structure of the game.
-CSS: Design the look
-JavaScript: Game logic and interactivity.
+- HTML: Create the structure of the game
+- CSS: Design the look
+- JavaScript: Game logic and interactivity
 
 # Setup
 To run the game locally, follow these steps:
