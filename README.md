@@ -1,4 +1,4 @@
-## Memory Game
+# Memory Game
 A dynamic and interactive memory game developed using HTML, CSS, and JavaScript. This project demonstrates the ability to create engaging web applications with a focus on user experience and interactive design.
 
 # Table of Contents
