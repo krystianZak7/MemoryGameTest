@@ -1,5 +1,5 @@
 # Memory Game
-A dynamic and interactive memory game developed using HTML, CSS, and JavaScript. This project demonstrates the ability to create engaging web applications with a focus on user experience and interactive design.
+A dynamic and interactive memory game developed using HTML, CSS, and JavaScript. This project demonstrates the ability to create engaging web applications with a focus on user experience and interactive design. Also project used for learning the features of git.
 
 # Table of Contents
 Demo
@@ -9,19 +9,19 @@ Technologies Used
 Setup
 
 # Features
-Responsive Game Board: A grid layout with cards that adapt to different screen sizes.
+Responsive Game Board --- a grid layout with cards that adapt to different screen sizes.
 
-Card Flipping: Smooth animations for flipping cards to reveal their values.
+Card Flipping --- smooth animations for flipping cards to reveal their values.
 
-Move Counter: Tracks and displays the number of moves made by the player.
+Move Counter --- tracks and displays the number of moves made by the player.
 
-Time Counter: Displays the elapsed time since the start of the game.
+Time Counter --- displays the elapsed time since the start of the game.
 
-Restart Button: Resets the game to its initial state, allowing for a fresh start.
+Restart Button --- resets the game to its initial state, allowing for a fresh start.
 
-Card Matching: Logic to check for matching pairs and keep them flipped if they match.
+Card Matching --- logic to check for matching pairs and keep them flipped if they match.
 
-Animated Matching: Visual feedback with animations for successfully matched cards.
+Animated Matching - Visual feedback with animations for successfully matched cards.
 
 # How to Play
 - Start the Game: Open the game in your web browser
