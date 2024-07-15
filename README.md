@@ -13,19 +13,19 @@ Technologies Used
 Setup
 
 # Features
-Responsive Game Board --- a grid layout with cards that adapt to different screen sizes.
+Responsive Game Board - a grid layout with cards that adapt to different screen sizes.
 
-Card Flipping --- smooth animations for flipping cards to reveal their values.
+Card Flipping - smooth animations for flipping cards to reveal their values.
 
-Move Counter --- tracks and displays the number of moves made by the player.
+Move Counter - tracks and displays the number of moves made by the player.
 
-Time Counter --- displays the elapsed time since the start of the game.
+Time Counter - displays the elapsed time since the start of the game.
 
-Restart Button --- resets the game to its initial state, allowing for a fresh start.
+Restart Buttonb - resets the game to its initial state, allowing for a fresh start.
 
-Card Matching --- logic to check for matching pairs and keep them flipped if they match.
+Card Matching - logic to check for matching pairs and keep them flipped if they match.
 
-Animated Matching --- Visual feedback with animations for successfully matched cards.
+Animated Matching - Visual feedback with animations for successfully matched cards.
 
 # How to Play
 - Start the Game: Open the game in your web browser
@@ -36,13 +36,16 @@ Animated Matching --- Visual feedback with animations for successfully matched c
 
 # Technologies
 - HTML: Create the structure of the game
+
   ![html](https://github.com/user-attachments/assets/84f7eb2e-cdba-478d-96e0-0830e91218dd)
 
 - CSS: Design the look
+
 ![css1](https://github.com/user-attachments/assets/e89ccf7a-e37c-471f-bd89-66c255df7683)
 ![css2](https://github.com/user-attachments/assets/3d9d0bc9-150b-44e1-82da-22a7644444c5)
 
 - JavaScript: Game logic and interactivity
+
   ![js1](https://github.com/user-attachments/assets/fa575757-f977-46b1-abbd-02c163f2959d)
 ![js2](https://github.com/user-attachments/assets/6d149d77-2783-4108-8cbc-449164d0f4e8)
 
