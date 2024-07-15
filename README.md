@@ -37,7 +37,7 @@ Animated Matching - Visual feedback with animations for successfully matched car
 # Technologies
 - HTML: Create the structure of the game
 
-  ![html](https://github.com/user-attachments/assets/84f7eb2e-cdba-478d-96e0-0830e91218dd)
+![html](https://github.com/user-attachments/assets/84f7eb2e-cdba-478d-96e0-0830e91218dd)
 
 - CSS: Design the look
 
@@ -46,7 +46,7 @@ Animated Matching - Visual feedback with animations for successfully matched car
 
 - JavaScript: Game logic and interactivity
 
-  ![js1](https://github.com/user-attachments/assets/fa575757-f977-46b1-abbd-02c163f2959d)
+![js1](https://github.com/user-attachments/assets/fa575757-f977-46b1-abbd-02c163f2959d)
 ![js2](https://github.com/user-attachments/assets/6d149d77-2783-4108-8cbc-449164d0f4e8)
 
 
