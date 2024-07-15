@@ -6,9 +6,9 @@ A dynamic and interactive memory game developed using HTML, CSS, and JavaScript.
 
 
 # Table of Contents
-Demo
-Features
-How to Play
+* Demo
+* Features
+* How to Play
 Technologies Used
 Setup
 
