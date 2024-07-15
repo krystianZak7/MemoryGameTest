@@ -1,6 +1,10 @@
 # Memory Game
 A dynamic and interactive memory game developed using HTML, CSS, and JavaScript. This project demonstrates the ability to create engaging web applications with a focus on user experience and interactive design. Also project used for learning the features of git.
 
+![game1](https://github.com/user-attachments/assets/5cbaead4-0e3d-4975-802f-053731de996f)
+![game2](https://github.com/user-attachments/assets/6a864fbd-ef87-416f-b115-fde3a783b2e6)
+
+
 # Table of Contents
 Demo
 Features
@@ -32,8 +36,16 @@ Animated Matching --- Visual feedback with animations for successfully matched c
 
 # Technologies
 - HTML: Create the structure of the game
+  ![html](https://github.com/user-attachments/assets/84f7eb2e-cdba-478d-96e0-0830e91218dd)
+
 - CSS: Design the look
+![css1](https://github.com/user-attachments/assets/e89ccf7a-e37c-471f-bd89-66c255df7683)
+![css2](https://github.com/user-attachments/assets/3d9d0bc9-150b-44e1-82da-22a7644444c5)
+
 - JavaScript: Game logic and interactivity
+  ![js1](https://github.com/user-attachments/assets/fa575757-f977-46b1-abbd-02c163f2959d)
+![js2](https://github.com/user-attachments/assets/6d149d77-2783-4108-8cbc-449164d0f4e8)
+
 
 # Setup
 To run the game locally, follow these steps:
